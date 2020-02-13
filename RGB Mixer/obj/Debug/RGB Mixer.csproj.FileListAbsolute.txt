@@ -1,0 +1,10 @@
+C:\Users\Mateus\source\repos\RGB Mixer\RGB Mixer\bin\Debug\RGB Mixer.exe.config
+C:\Users\Mateus\source\repos\RGB Mixer\RGB Mixer\bin\Debug\RGB Mixer.exe
+C:\Users\Mateus\source\repos\RGB Mixer\RGB Mixer\bin\Debug\RGB Mixer.pdb
+C:\Users\Mateus\source\repos\RGB Mixer\RGB Mixer\obj\Debug\RGB Mixer.csprojAssemblyReference.cache
+C:\Users\Mateus\source\repos\RGB Mixer\RGB Mixer\obj\Debug\RGB_Mixer.Form1.resources
+C:\Users\Mateus\source\repos\RGB Mixer\RGB Mixer\obj\Debug\RGB_Mixer.Properties.Resources.resources
+C:\Users\Mateus\source\repos\RGB Mixer\RGB Mixer\obj\Debug\RGB Mixer.csproj.GenerateResource.cache
+C:\Users\Mateus\source\repos\RGB Mixer\RGB Mixer\obj\Debug\RGB Mixer.exe
+C:\Users\Mateus\source\repos\RGB Mixer\RGB Mixer\obj\Debug\RGB Mixer.pdb
+C:\Users\Mateus\source\repos\RGB Mixer\RGB Mixer\bin\Debug\Resources\ajuda.chm
